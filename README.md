@@ -26,9 +26,7 @@ The Facial Recognition Outpass Management System is an innovative solution desig
    pip install -r requirements.txt
    ```
 
-3. Set up the necessary configurations, such as database connections and API keys.
-
-4. Run the application:
+3. Run the application:
 
    ```bash
    python app.py
